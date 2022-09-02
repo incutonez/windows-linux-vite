@@ -7,3 +7,4 @@
 - `npm run build:rollup`
 - `npm run dev`
 - Notice Test.com shows for all
+- Reported bug [here](https://github.com/vitejs/vite/issues/9939)
